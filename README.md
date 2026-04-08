@@ -9,6 +9,7 @@ Tools:
 Python | Pandas | Matplotlib | Seaborn | SQL
 
 Projects:
+- Housing Price
 - Retail Sales Analysis
 - Customer Segmentation
 
